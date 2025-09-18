@@ -222,3 +222,4 @@ Trong UI, bật DAG **`topcv_pipeline_daily_v2`** hoặc **v3** để pipeline t
 MIT — dùng cho mục đích học tập & nghiên cứu.
 ⚠️ Tôn trọng điều khoản sử dụng của TopCV, không gây tải nặng.
 
+# Cawl-TOPCV
