@@ -1,4 +1,4 @@
-Data Anaalysts
+Data analyst
 # CRAWL TOPCV JOBS (Learning Purposes)
 
 Crawler nhẹ nhàng để thu thập tin tuyển dụng **Data Analyst** trên TopCV, tự động ghép **chi tiết job** + **thông tin công ty** vào một **Pandas DataFrame**, xuất **CSV/XLSX**, và (mới) **orchestrate bằng Airflow**.
