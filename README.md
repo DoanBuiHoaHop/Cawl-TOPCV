@@ -71,7 +71,7 @@ Crawler nhẹ nhàng để thu thập tin tuyển dụng **Data Analyst** trên 
 
 ## 🛠️ Yêu cầu
 
-* Python 3.8+  
+* Python 3.9.2  
 * [uv](https://github.com/astral-sh/uv) (quản lý môi trường & dependency)  
 * (Tuỳ chọn) Google Chrome + ChromeDriver nếu bạn dùng Selenium thay vì `requests`/`BeautifulSoup`.
 
